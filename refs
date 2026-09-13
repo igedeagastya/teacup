@@ -13352,13 +13352,20 @@ https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd
 
 <================================================>
 
-#EXTINF: -1 tvg-id="indosiar.id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/indonesia/indosiar-id.png?raw=true" group-title="EVENT 013/SEPTEMBER/2026", INDOSIAR FH
-https://sw.run/CAMPWIKI-INDISIAR-FHD
+
+#EXTINF:-1 group-title="EVENT 013/SEPTEMBER/2026" tvg-logo="https://shorter.me/_bDcr", 19:00 WIB Persebaya Surabaya vs PSIM Yogyakarta
+#EXTVLCOPT:http-referrer=https://lxscore.com/
+#EXTVLCOPT:http-origin=https://lxscore.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://v4-81285a097b2cd341b7871fa3aafac269.livehwc4.com/hd-stream.prohades.com/live/default-1622771.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=c6b4b653d51bd6bbbcea0d64f3727df7
 
 #EXTINF:-1 group-title="EVENT 013/SEPTEMBER/2026" tvg-logo="https://shorter.me/_bDcr", 19:00 WIB Persebaya Surabaya vs PSIM Yogyakarta
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xl365.domainkqt.cc/
 https://live1.quickscoreboardz.com/live/channel5.m3u8?wsSecret=3cf1cb7e480499cc6bbd8c3cb19aa0ac&wsABSTime=1789321814
+
+#EXTINF: -1 tvg-id="indosiar.id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/indonesia/indosiar-id.png?raw=true" group-title="EVENT 013/SEPTEMBER/2026", INDOSIAR FH
+https://sw.run/CAMPWIKI-INDISIAR-FHD
 
 <================>
 
