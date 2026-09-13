@@ -3438,22 +3438,22 @@ https://vididi.bento4590.workers.dev/index.mpd?q=205&ext=dash&x=1789293553&k=20d
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vididi.bento4590.workers.dev/index.mpd?q=204&ext=drm&x=1789293553&k=5133503c3bcfd78c9735f01da272dcda341609e3574ed7bbff40134c401da36a
-https://vididi.bento4590.workers.dev/index.mpd?q=204&ext=dash&x=1789293553&k=7b4741d8bc9510c601d7169fd26ab427857903e19d3494cf8e8bcb2bf822c45a&sc=204
+#KODIPROP:inputstream.adaptive.license_key=https://vididi.bento4590.workers.dev/index.mpd?q=204&ext=drm&x=1789304674&k=50709cea42cc21aa13a67aa531e89bd5c38a2ed75f215148616ac58d7e0d12eb
+https://vididi.bento4590.workers.dev/index.mpd?q=204&ext=dash&x=1789304674&k=b80ed7971f0b244f678bad32c2b03474883464746b0c96dc2f671619e3a79cd2&sc=204
 
 #EXTINF:-1 tvg-uid="b297306a4236baf99bd72edfb9500ac0" data-source="Vididi Combi Termux" data-source="Manual" group-title="CHANNEL | INDONESIA" tvg-id="782" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/ANTV.1.png?raw=true",🆕ANTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-https://vididi.bento4590.workers.dev/index.mpd?q=782&ext=dash&x=1789293553&k=97d201673bc9e482be1e594e025639d897466566f84ff9eb7ea98db4f836be14&sc=782
+https://vididi.bento4590.workers.dev/index.mpd?q=782&ext=dash&x=1789304674&k=9bdb1c092101b676faceb5ad109820c5f8288525409c488d927e91e68e7d1d60&sc=782
 
 #EXTINF:-1 tvg-uid="d377b7035f33a501123e388eed52f353" data-source="Vididi Combi Termux" data-source="Manual" group-title="CHANNEL | INDONESIA" tvg-id="783" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/TVONE.1.png?raw=true",🆕TVONE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-https://vididi.bento4590.workers.dev/index.mpd?q=783&ext=dash&x=1789293553&k=26c8a01e851a0dcaa5567f52b19ced319eab98e6b8a9356cbe2486ef412213fb&sc=783
+https://vididi.bento4590.workers.dev/index.mpd?q=783&ext=dash&x=1789304674&k=71c05751e4ec0bf3fd7c743c48e53061ea6a5650ec05d377f99f086682ef5d3e&sc=783
 
 ++===
 
