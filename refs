@@ -3705,28 +3705,28 @@ https://5bf7b725107e5.streamlock.net/bungotv/bungotv/playlist.m3u8
 EXTINF:-1 group-title="CHANNEL | DAERAH" tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://wiki.edunitas.com/_sepakbola/_baca_image.php?td=21&kodegb=200px-Kilisuci_TV.png",Kilisuci TV Kediri
 https://5bf7b725107e5.streamlock.net:443/kstv/kstv/playlist.m3u8
  
-#EXTINF:-1 tvg-logo="https://iili.io/JbtnILX.png" group-title="CHANNEL | DAERAH",RCTV
+#EXTINF:-1 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/RCTV.png?raw=true" group-title="CHANNEL | DAERAH",RCTV
 https://v10.siar.us/rctv/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="tvg-url="tvg-logo="https://lingkartv.com/assets/img/logo-square.png" group-title="CHANNEL | DAERAH",LINGKAR TV
+#EXTINF:-1 tvg-id="tvg-url="tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/LINGKAR.png?raw=true" group-title="CHANNEL | DAERAH",LINGKAR TV
 https://lingkartv.my.id/hls/lingkartv.m3u8
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml"  tvg-logo="https://i.imgur.com/8cFJa8G.png" group-title="CHANNEL | DAERAH",Sampit TV
+#EXTINF:-1 tvg-id="" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml"  tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/SAMPIT%20TV.png?raw=true" group-title="CHANNEL | DAERAH",Sampit TV
 https://sampit-tv.siar.us/live/sampit-tv.m3u8
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Logo_Salira_TV.png" group-title="CHANNEL | DAERAH",Salira TV
+#EXTINF:-1 tvg-id="" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml"  tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/SALIRA%20TV.png?raw=true" group-title="CHANNEL | DAERAH",Salira TV
 https://live.salira.tv/p/3870/hybrid/play.m3u8
 
-#EXTINF:-1 tvg-id="Apple TV.id" group-title="CHANNEL | DAERAH" tvg-logo="https://img.mbizmarket.co.id/products/thumbs/343x343/2022/08/26/05ec6ce3f5dd7ac9ce683463c276a672.jpg", MADU TV
+#EXTINF:-1 tvg-id="Apple TV.id" group-title="CHANNEL | DAERAH" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/madutv.png?raw=true", MADU TV
 https://re1.siar.us/madutv/hd720/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Apple TV.id" group-title="CHANNEL | DAERAH" tvg-logo="https://www.pontv.id/wp-content/uploads/2018/07/livestreaming.jpg", PON TV
+#EXTINF:-1 tvg-id="Apple TV.id" group-title="CHANNEL | DAERAH" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/PON%20TV.png?raw=true", PON TV
 https://63b2dc7196c38.streamlock.net:1937/PONTV/_definst_/myStream/chunklist_w247695662.m3u8
 
 #EXTINF:-1 tvg-id="Apple TV.id" tvg-logo="https://media.licdn.com/dms/image/v2/C561BAQGOnIN_fYUMfg/company-background_10000/company-background_10000/0/1639496853603/ugtv_cover?e=2147483647&v=beta&t=3jn5psRKJioPcFh9LwQKxn1mg_ibHzFQt47CdzX3kiI" group-title="CHANNEL | DAERAH", UGTV
