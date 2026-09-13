@@ -13367,6 +13367,16 @@ https://live1.quickscoreboardz.com/live/channel5.m3u8?wsSecret=3cf1cb7e480499cc6
 #EXTINF: -1 tvg-id="indosiar.id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/indonesia/indosiar-id.png?raw=true" group-title="EVENT 013/SEPTEMBER/2026", INDOSIAR FH
 https://sw.run/CAMPWIKI-INDISIAR-FHD
 
+#EXTINF:-1 tvg-id="205" tvg-logo="https://thumbor.prod.vidiocdn.com/0plBZ7Gso7gNBJxid9ksA8HMGxc=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/205/54ab19.png" group-title="EVENT 013/SEPTEMBER/2026",Indosiar
+#EXTVLCOPT:http-referrer=android-app://com.vidio.android
+#EXTVLCOPT:http-user-agent=VidioPlayer/2608.2.7
+#EXTHTTP:{"User-Agent":"VidioPlayer/2608.2.7","Referer":"android-app://com.vidio.android"}
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://gateway.rrlaundry.my.id/stream/trial/stream_vidio.php?id=205&type=drm
+https://gateway.rrlaundry.my.id/stream/trial/stream_vidio.php?id=205&type=compat
+
 <================>
 
 #EXTINF:-1 group-title="EVENT 013/SEPTEMBER/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUjMpYtloeDkG1NInHMVRkBCP2ER5DFnrS_DCjgOv-Ww&s=10", 17:30 Jepang vs Iran
