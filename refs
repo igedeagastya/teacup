@@ -3646,19 +3646,19 @@ https://5bf7b725107e5.streamlock.net/bantentv/bantentv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/BMS%20TV.png?raw=true" group-title="CHANNEL | DAERAH",BMS TV
 https://5bf7b725107e5.streamlock.net/bmstv/bmstv/playlist.m3u8
  
-#EXTINF:-1 tvg-logo="https://iili.io/JbtnPvR.png" group-title="CHANNEL | DAERAH",Dhamma TV
+#EXTINF:-1 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/DHAMMA.png?raw=true" group-title="CHANNEL | DAERAH",Dhamma TV
 https://b.webcache.maxindo.net.id/dhamma/dhamma.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nU1CpPCvkL8GvkaIH3P5bpLwYU2vdpokOmA8MF1-HTTq8=s900-c-k-c0x00ffffff-no-rj" group-title="CHANNEL | DAERAH",RBTV JOGJA (Ga 24 Jam)
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/RBTV.png?raw=true" group-title="CHANNEL | DAERAH",RBTV JOGJA (Ga 24 Jam)
 http://live.rbtvjogja.tv/hls/0/stream.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR68gIlLKiKBz0I3Sm91Du3kUshLw3tlKN_daCN8p9Hkg&s" group-title="CHANNEL | DAERAH",Radar TV Tasikmalaya (Ga 24 Jam)
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/radar.png?raw=true" group-title="CHANNEL | DAERAH",Radar TV Tasikmalaya (Ga 24 Jam)
 https://v2.siar.us/radartasikmalaya/live/playlist.m3u8
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml"  tvg-logo="https://upload.wikimedia.org/wikipedia/id/6/6e/Logo_SMTV_Sumedang.png" group-title="CHANNEL | DAERAH",SMTV Sumedang
+#EXTINF:-1 tvg-id="" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml"  tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/SMTV.png?raw=true" group-title="CHANNEL | DAERAH",SMTV Sumedang
 http://122.248.43.242:1935/SMTV/_definst_/myStream/playlist.m3u8
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
@@ -3667,7 +3667,7 @@ http://122.248.43.242:1935/SMTV/_definst_/myStream/playlist.m3u8
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
-#EXTINF:-1 tvg-id="" tvg-logo="https://tvtabalong.com/wp-content/uploads/2022/03/logo-tv-tabalong.png" group-title="CHANNEL | DAERAH",TV Tabalong
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/TV%20TABALONG.png?raw=true" group-title="CHANNEL | DAERAH",TV Tabalong
 https://5bf7b725107e5.streamlock.net/tvtabalong/tvtabalong/playlist.m3u8
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
@@ -3676,7 +3676,7 @@ https://5bf7b725107e5.streamlock.net/tvtabalong/tvtabalong/playlist.m3u8
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/f1/Bungo_TV.png" group-title="CHANNEL | DAERAH",Bungo TV
+#EXTINF:-1 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/Bungo%20tv.png?raw=true" group-title="CHANNEL | DAERAH",Bungo TV
 https://5bf7b725107e5.streamlock.net/bungotv/bungotv/playlist.m3u8
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
