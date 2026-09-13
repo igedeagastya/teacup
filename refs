@@ -13343,7 +13343,7 @@ https://d3f4oii5n0oeqi.cloudfront.net/11701/88814575/hls/master.m3u8?ads._fw_app
 #EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/Black%20and%20Dark%20Space%20Photo%20YouTube%20Thumbnail_20260424_222744_0000.png?raw=true", LIVE EVENT
 
 
-#EXTINF:-1 group-title="EVENT 013/SEPTEMBER/2026" tvg-logo="https://iili.io/3cSp4Lu.md.png", 18:15 MotoGP Race: Red Bull Grand Prix of San Marino and The Rimini Riviera - MotoGP 2026 Round 14
+EXTINF:-1 group-title="EVENT 013/SEPTEMBER/2026" tvg-logo="https://iili.io/3cSp4Lu.md.png", 18:15 MotoGP Race: Red Bull Grand Prix of San Marino and The Rimini Riviera - MotoGP 2026 Round 14
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -13352,22 +13352,10 @@ https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd
 
 <================================================>
 
-
-#EXTINF:-1 group-title="EVENT 013/SEPTEMBER/2026" tvg-logo="https://shorter.me/_bDcr", 19:00 WIB Persebaya Surabaya vs PSIM Yogyakarta
-#EXTVLCOPT:http-referrer=https://lxscore.com/
-#EXTVLCOPT:http-origin=https://lxscore.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://v4-81285a097b2cd341b7871fa3aafac269.livehwc4.com/hd-stream.prohades.com/live/default-1622771.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=c6b4b653d51bd6bbbcea0d64f3727df7
-
-#EXTINF:-1 group-title="EVENT 013/SEPTEMBER/2026" tvg-logo="https://shorter.me/_bDcr", 19:00 WIB Persebaya Surabaya vs PSIM Yogyakarta
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xl365.domainkqt.cc/
-https://live1.quickscoreboardz.com/live/channel5.m3u8?wsSecret=3cf1cb7e480499cc6bbd8c3cb19aa0ac&wsABSTime=1789321814
-
-#EXTINF: -1 tvg-id="indosiar.id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/indonesia/indosiar-id.png?raw=true" group-title="EVENT 013/SEPTEMBER/2026", INDOSIAR FH
+EXTINF: -1 tvg-id="indosiar.id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/indonesia/indosiar-id.png?raw=true" group-title="EVENT 013/SEPTEMBER/2026", INDOSIAR FH
 https://sw.run/CAMPWIKI-INDISIAR-FHD
 
-#EXTINF:-1 tvg-id="205" tvg-logo="https://thumbor.prod.vidiocdn.com/0plBZ7Gso7gNBJxid9ksA8HMGxc=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/205/54ab19.png" group-title="EVENT 013/SEPTEMBER/2026",Indosiar
+EXTINF:-1 tvg-id="205" tvg-logo="https://thumbor.prod.vidiocdn.com/0plBZ7Gso7gNBJxid9ksA8HMGxc=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/205/54ab19.png" group-title="EVENT 013/SEPTEMBER/2026",Indosiar
 #EXTVLCOPT:http-referrer=android-app://com.vidio.android
 #EXTVLCOPT:http-user-agent=VidioPlayer/2608.2.7
 #EXTHTTP:{"User-Agent":"VidioPlayer/2608.2.7","Referer":"android-app://com.vidio.android"}
@@ -13378,17 +13366,6 @@ https://sw.run/CAMPWIKI-INDISIAR-FHD
 https://gateway.rrlaundry.my.id/stream/trial/stream_vidio.php?id=205&type=compat
 
 <================>
-
-#EXTINF:-1 group-title="EVENT 013/SEPTEMBER/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUjMpYtloeDkG1NInHMVRkBCP2ER5DFnrS_DCjgOv-Ww&s=10", 17:30 Jepang vs Iran
-https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
-
-<================>
-
-#EXTINF:-1 group-title="EVENT 013/SEPTEMBER/2026" tvg-logo="https://iili.io/FtSr5Mb.jpg", 20:00 WIB Coventry City vs Brighton & Hove Albion
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
-http://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
 
 #EXTINF:-1 group-title="EVENT 013/SEPTEMBER/2026" tvg-logo="https://iili.io/FtSr5Mb.jpg", 22:30 WIB Manchester United vs Manchester City
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
@@ -13480,16 +13457,6 @@ https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/ssdefyhkkr/
 
 <================>
 
-#EXTINF:-1 group-title="EVENT 013/SEPTEMBER/2026" tvg-logo="https://shorter.me/UXCX0", 18:00 WIB Sheffield United vs Wolverhampton Wanderers
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
-
-
-
 EXTINF:-1 group-title="EVENT 013/SEPTEMBER/2026" tvg-logo="https://shorter.me/10pDQ", 001 Yonex Sunrise Vietnam Open 2026
 https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.quickscoreboardz.com/live/channel60.m3u8#EXTINF:-1 group-title="EVENT 013/SEPTEMBER/2026" tvg-logo="https://shorter.me/10pDQ", 001 Yonex Sunrise Vietnam Open 2026
 EXTINF:-1 group-title="EVENT 013/SEPTEMBER/2026" tvg-logo="https://shorter.me/10pDQ", 001 Yonex Sunrise Vietnam Open 2026
@@ -13498,9 +13465,6 @@ EXTINF:-1 group-title="EVENT 013/SEPTEMBER/2026" tvg-logo="https://shorter.me/10
 https://tfz96gr3uomttgr31hctwgczdncjufisg17ufgr.100ycdn.com/live1.quickscoreboardz.com/live/channel60/playlist.m3u8?wsSecret=40aea25421155b4d6653f8b5f19ba691&wsABSTime=1789322989&wsSession=49dacc257f2a74adbc9fe740-178927979172908&wsIPSercert=68531b3b351ff8607113f4382f752b78&wsBindIP=2&wsserid=1177046549500337104
 EXTINF:-1 group-title="EVENT 013/SEPTEMBER/2026" tvg-logo="https://shorter.me/10pDQ", 001 Yonex Sunrise Vietnam Open 2026
 https://tfz96gr3uomttgr31hctwgczdncjufisg17ufgr.100ycdn.com/live1.quickscoreboardz.com/live/channel60/playlist.m3u8?wsSecret=69f48fc12e975255f255e6de8eb8c335&wsABSTime=1789323069&wsSession=49dacc257f2a74adbc9fe740-178927987125432&wsIPSercert=68531b3b351ff8607113f4382f752b78&wsBindIP=2&wsserid=1177046549500337104
-
-
-
 
 
 
