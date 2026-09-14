@@ -5542,6 +5542,30 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/4yiko4it
 #KODIPROP:inputstream.adaptive.license_key=902e5ec0e3d05e665daa32fc23f4f59e:7b2322a273843921a43e2c61dac7cae3
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase
 
+#EXTINF:-1 tvg-uid="6ccb980ecb9bc0f8224b1995457197c7" data-source="Mac Portal 10" group-title="CHANNEL | SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/SPORT TV/SPORT TV 1.png", SPORT TV 1 |PT| HD
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/959340.m3u8
+
+#EXTINF:-1 tvg-uid="d02986aaf72e589ff83662a4dac92d3d" data-source="Mac Portal 10" group-title="CHANNEL | SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/SPORT TV/SPORT TV 2.png", ┃PT┃ SPORT TV 2 HD | BONE TV
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/959344.m3u8
+
+#EXTINF:-1 tvg-uid="a291207ae23981328f9f628c0d39ca53" data-source="Mac Portal 10" group-title="CHANNEL | SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/SPORT TV/SPORT TV 3.png", ┃PT┃ SPORT TV 3 HD | BONE TV
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/959348.m3u8
+
+#EXTINF:-1 tvg-uid="4270e62405554d416bf0a130e97a688a" data-source="Mac Portal 10" group-title="CHANNEL | SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/SPORT TV/SPORT TV 4.png", ┃PT┃ SPORT TV 4 HD | BONE TV
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/959352.m3u8
+
+#EXTINF:-1 tvg-uid="56e1363c2505a8feeaa1eb29dbbc1edb" data-source="Mac Portal 10" group-title="CHANNEL | SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/SPORT TV/SPORT TV 5.png", ┃PT┃ SPORT TV 5 HD | BONE TV
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/959356.m3u8
+
+#EXTINF:-1 tvg-uid="f9743e286f406e698df176853ff10148" data-source="Mac Portal 10" group-title="CHANNEL | SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/SPORT TV/SPORT TV 6.png", ┃PT┃ SPORT TV 6 HD | BONE TV
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/959360.m3u8
+
+#EXTINF:-1 tvg-uid="1a224833093a064618117d7a88399c71" data-source="Mac Portal 10" group-title="CHANNEL | SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/SPORT TV/SPORT TV 7.png", ┃PT┃ SPORT TV 7 HD | BONE TV
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/959363.m3u8
+
+#EXTINF:-1 tvg-uid="a2c74594fb9319338b096d0264959103" data-source="Mac Portal 10" group-title="CHANNEL | SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/DESPORTO/SPORTING TV.png", ┃PT┃ SPORTING TV HD | BONE TV
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/959435.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/21/e9/0e/21e90e178676653c88cf4c51ccbc792c.jpg" group-title="CHANNEL | SPORTS",SPORT 1 SLOVAKIA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referer=https://webtv.sk/tv/
