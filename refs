@@ -4855,8 +4855,7 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/ind
 
 
 =========================================== SPORTS======================================================
-#EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/C_SPORT.png?raw=true",CHANNEL | SPORT
-
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/WhatsApp%20Image%202026-04-29%20at%2006.41.09.jpeg?raw=true",CHANNEL | SPORT
 
 #EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8f/Fubo_Sports.png/revision/latest?cb=20250117221217" group-title="CHANNEL | SPORTS", FUBO SPORTS 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
@@ -6638,15 +6637,10 @@ https://d3is52sgpnlx4c.cloudfront.net/10901/88885558/hls/master.m3u8?withResolut
 
 
 
-
-
-
-
-
-
 #######################################################################
 ############ INDIHOME #################################################
-#EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/MAXTRIMC_1.png?raw=true",CHANNEL | MAXTRIM
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/WhatsApp%20Image%202026-04-29%20at%2006.41.09.jpeg?raw=true",CHANNEL | MAXTRIM
+
 
 #EXTINF:-1 tvg-id="Indosiar.id@SD" group-title="CHANNEL | MAXTRIM" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_indosiar.png",Indosiar
 https://cdnbal1.indihometv.com/atm/DASH/indosiar/indosiar-avc1_2500000=7-3277707030000000.mpd
@@ -6833,7 +6827,7 @@ https://cdnbal1.indihometv.com/atm/DASH/useesport/useesport-avc1_2500000=7-32777
 ===China provinsi===
 
 
-#EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/C_CCTV.png?raw=true",group-title="CHANNEL | CCTV CHINA"
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/WhatsApp%20Image%202026-04-29%20at%2006.41.09.jpeg?raw=true",CHANNEL | CCTV CHINA"
 
 #EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv1.jpg" group-title="CHANNEL | CCTV CHINA",CCTV 1 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
@@ -7299,9 +7293,7 @@ https://fta3-cdn-flr.visionplus.id/out/v1/9041826689ae4f9c9619576d411fa989/index
 //Collected by Maytoko2 menampilkan playlist >>> FRISTMEDIA
 //========================================================================
 
-#EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/C_KNOWLEDGE.png?raw=true",CHANNEL | FIRSTMEDIA
-
-
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/WhatsApp%20Image%202026-04-29%20at%2006.41.09.jpeg?raw=true",CHANNEL | FIRSTMEDIA
 
 #EXTM3U
 
@@ -7533,15 +7525,13 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/LoveNatureHD/newmpd/LoveNatureHD.
 
 
 
-
-
-
 //========================================================================
 //Collected by Maytoko2 menampilkan playlist >>> KNOWLEDGE
 //========================================================================
 
-#EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/C_KNOWLEDGE.png?raw=true",CHANNEL | KNOWLEDGE
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/WhatsApp%20Image%202026-04-29%20at%2006.41.09.jpeg?raw=true",CHANNEL | KNOWLEDGE
 
+#EXTM3U
 #EXTINF:-1 group-title="CHANNEL | KNOWLEDGE" tvg-logo="https://i.imgur.com/v14cwHv.png",Nat Geo Wild
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referer=https://webtv.sk/tv/
@@ -7912,9 +7902,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/FashionTV/mediampd/FashionTV.mpd
 //========================================================================
 //Collected by.andrasinatra menampilkan playlist >>> CHANNEL | ENTERTAINMENT
 //========================================================================
-#EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/CHANNEL_20260504_152107_0000.png?raw=true",CHANNEL | ENTERTAINMENT 
-
-
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/WhatsApp%20Image%202026-04-29%20at%2006.41.09.jpeg?raw=true",CHANNEL | ENTERTAINMENT 
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -8545,15 +8533,8 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99951249/hls/playlist.m3u8?ads.xumo_c
 
 
 
-
-
-<=============================== CHANNEL | JAPAN =========================================>
-
-##EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/C_.png?raw=true",CHANNEL | JAPAN
-
-
 ======================== CHANNEL | KOREAN ====================
-#EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/C_KOR.png?raw=true",CHANNEL | KOREAN
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/WhatsApp%20Image%202026-04-29%20at%2006.41.09.jpeg?raw=true",CHANNEL | KOREAN
 
 #EXTINF:-1 tvg-id="Apple TV.id" group-title="CHANNEL | KOREAN" tvg-logo="https://www.dens.tv/images/channel-logo/58.jpg", TVN MOVIES V+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -8658,7 +8639,7 @@ https://dtvstreaming.hyundaihmall.com/newcjp3/_definst_/newcjpstream.smil/playli
 
 ======================== CHANNEL | MOVIES ====================
 
-#EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/C_MOVIES.png?raw=true",CHANNEL | MOVIES
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/WhatsApp%20Image%202026-04-29%20at%2006.41.09.jpeg?raw=true",CHANNEL | MOVIES
 
 #EXTINF:-1 tvg-id="IMC.id@SD" group-title="CHANNEL | MOVIES" tvg-logo="https://object-streamo.emonaja.com/img/imc.png", IMC (V+)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
@@ -8835,11 +8816,6 @@ https://streams2.sofast.tv/ptnr-yupptv/title-BEST_ACTION_YUPPTV/v1/master/611d79
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 http://23.237.104.106:8080/USA_HALLMARK/index.m3u8
-
-
-
-
-
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/74/00/39/74003970912407ba7413996efea961ab.jpg" group-title="CHANNEL | MOVIES", MOVIE SPHERE
 https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
@@ -10963,9 +10939,7 @@ https://wadukbau.my.id/V1/stream.php?link=aHR0cHM6Ly9jZG5qa3Q5MTMudHJhbnN2aXNpb2
 
 
 ============DENS TV=============
-#EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/C_DENS.png?raw=true",CHANNEL | DENS TV
-
-
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/WhatsApp%20Image%202026-04-29%20at%2006.41.09.jpeg?raw=true",CHANNEL | DENS TV
 
 #EXTINF:-1 tvg-id="3" tvg-logo="https://www.dens.tv/images/channel-logo/3.jpg" group-title="CHANNEL | DENS TV", Live Streaming 1
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
@@ -11194,7 +11168,7 @@ https://amg00735-amg00735c45-denstv-apac-7616.playouts.now.amagi.tv/ts-eu-w1-n2/
 
 
 ============DOUYU MOVIES=============
-#EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/DOUYUL.png?raw=true",CHANNEL | DOUYU MOVIES
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/WhatsApp%20Image%202026-04-29%20at%2006.41.09.jpeg?raw=true",CHANNEL | DOUYU MOVIES
 
 #EXTINF:-1 tvg-logo="http://www.kuaipng.com/Uploads/pic/w/2020/05-12/80220/water_80220_698_698_.png" group-title="CHANNEL | DOUYU MOVIES",JackieChan 24/7
 http://38.75.136.137:98/gslb/dsdqpub/lbcl.m3u8?auth=testpub
@@ -12922,7 +12896,7 @@ https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&ed
 ##===========================
 ##          X U M O
 ##===========================
-#EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/XUMOTV.png?raw=true",CHANNEL | XUMO TV
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/WhatsApp%20Image%202026-04-29%20at%2006.41.09.jpeg?raw=true",CHANNEL | XUMO TV
 
 #EXTINF:-1 tvg-id="99951229" tvg-name="Ninja Kidz TV" tvg-logo="https://image.xumo.com/v1/channels/channel/99951229/168x168.png?type=color_onBlack" group-title="CHANNEL | XUMO TV",Ninja Kidz TV
 https://dbrb49pjoymg4.cloudfront.net/10001/99951229/hls/playlist.m3u8?ads.xumo_channelId=99951229&ads._fw_ifa_type=&ads._fw_did=b29f7915-509f-411a-8022-e23eb515e67e&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=PlayWorksNinjaKidsTV&ads.csid=xumo_web_PlayWorksNinjaKidsTV_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=1&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=3915&ads.xumo_contentName=PlayWorksNinjaKidsTV&ads.xumo_providerId=3915&ads.xumo_providerName=PlayWorksNinjaKidsTV&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99951229&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
@@ -12972,8 +12946,7 @@ https://d4whmvwm0rdvi.cloudfront.net/10007/99991621/hls/master.m3u8?ads.xumo_cha
 ##===========================
 ##        S A M S U N G
 ##===========================
-#EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/CHANNEL_20260518_162006_0000.png?raw=true",CHANNEL | SAMSUNG TV
-
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/WhatsApp%20Image%202026-04-29%20at%2006.41.09.jpeg?raw=true",CHANNEL | SAMSUNG
 
 #EXTINF:-1 tvg-id="USAJ3504502A" tvg-name="Anime All day" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3504502A_20260421T141927SQUARE.png" group-title="CHANNEL | SAMSUNG TV" tvg-chno="3205",Anime All day
 https://jmp2.uk/stvp-USAJ3504502A
@@ -13085,8 +13058,7 @@ https://jmp2.uk/stvp-GB2600018PD
 ##===========================
 ##        tcl
 ##===========================
-#EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/C_TCL.png?raw=true",CHANNEL | TCL TV
-
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/WhatsApp%20Image%202026-04-29%20at%2006.41.09.jpeg?raw=true",CHANNEL | TCL TV
 
 #EXTINF:-1 tvg-id="OM659334" tvg-logo="https://tcl-channel-cdn.ideonow.com/static/channel/OM659334/3760597490189526-7_SC_logo_color.jpg" group-title="CHANNEL | TCL TV",Anime 24/7
 https://amg01923-amg01923c113-amgplt0019.playout.now3.amagi.tv/ts-us-w2-n1/playlist/amg01923-amg01923c113-amgplt0019/playlist.m3u8?GdprConsent=0&app_bundle=&app_cat=IAB1-22&app_domain=&app_name=&app_store_url=&app_version=%7B%7BAppVersion%7D%7D&coppa=0&device_make=&device_model=&did=&dnt=&gdpr=0&ifa_type=&network_name=tinykernel&us_privacy=1YN-
@@ -13205,30 +13177,30 @@ https://d3f4oii5n0oeqi.cloudfront.net/11701/88814575/hls/master.m3u8?ads._fw_app
 
 
 <====================LIVE EVENT 1===================================>
-#EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/Black%20and%20Dark%20Space%20Photo%20YouTube%20Thumbnail_20260424_222744_0000.png?raw=true", LIVE EVENT
+EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/Black%20and%20Dark%20Space%20Photo%20YouTube%20Thumbnail_20260424_222744_0000.png?raw=true", LIVE EVENT
 
-#EXTINF:-1 group-title="EVENT 014/SEPTEMBER/2026" tvg-logo="https://shorter.me/oLPEz", 20:00 WIB Ukraina vs Portugal
+EXTINF:-1 group-title="EVENT 014/SEPTEMBER/2026" tvg-logo="https://shorter.me/oLPEz", 20:00 WIB Ukraina vs Portugal
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xl365.domainkqt.cc/
 https://live2.felnorastreamvault.com/live/channel33.m3u8
 
-#EXTINF:-1 group-title="EVENT 014/SEPTEMBER/2026" tvg-logo="https://shorter.me/oLPEz", 21:00 WIB Serbia vs Belanda
+EXTINF:-1 group-title="EVENT 014/SEPTEMBER/2026" tvg-logo="https://shorter.me/oLPEz", 21:00 WIB Serbia vs Belanda
 https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.quickscoreboardz.com/live/channel80.m3u8
 
-#EXTINF:-1 group-title="EVENT 014/SEPTEMBER/2026" tvg-logo="https://shorter.me/oLPEz", 21:00 WIB Jerman vs Swiss
+EXTINF:-1 group-title="EVENT 014/SEPTEMBER/2026" tvg-logo="https://shorter.me/oLPEz", 21:00 WIB Jerman vs Swiss
 https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.quickscoreboardz.com/live/channel81.m3u8
 
-#EXTINF:-1 group-title="EVENT 014/SEPTEMBER/2026" tvg-logo="https://shorter.me/oLPEz", 21:00 WIB Slovakia vs Republik Ceko
+EXTINF:-1 group-title="EVENT 014/SEPTEMBER/2026" tvg-logo="https://shorter.me/oLPEz", 21:00 WIB Slovakia vs Republik Ceko
 https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.quickscoreboardz.com/live/channel82.m3u8
 
-#EXTINF:-1 group-title="EVENT 014/SEPTEMBER/2026" tvg-logo="https://shorter.me/oLPEz", 23:00 WIB Bulgaria vs Israel
+EXTINF:-1 group-title="EVENT 014/SEPTEMBER/2026" tvg-logo="https://shorter.me/oLPEz", 23:00 WIB Bulgaria vs Israel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xl365.domainkqt.cc/
 https://live2.felnorastreamvault.com/live/channel33.m3u8
 
 ===============
 
-#EXTINF:-1 group-title="EVENT 014/SEPTEMBER/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmq0OJbv9jEWF9eTy9B5C4IVkfWVJ1A3bqIw&s", 23:30 WIB Torino vs Roma
+EXTINF:-1 group-title="EVENT 014/SEPTEMBER/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmq0OJbv9jEWF9eTy9B5C4IVkfWVJ1A3bqIw&s", 23:30 WIB Torino vs Roma
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -13236,7 +13208,7 @@ https://live2.felnorastreamvault.com/live/channel33.m3u8
 #KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
 
-#EXTINF:-1 group-title="EVENT 014/SEPTEMBER/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmq0OJbv9jEWF9eTy9B5C4IVkfWVJ1A3bqIw&s", 23:30 WIB Como vs Parma
+EXTINF:-1 group-title="EVENT 014/SEPTEMBER/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmq0OJbv9jEWF9eTy9B5C4IVkfWVJ1A3bqIw&s", 23:30 WIB Como vs Parma
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -13244,7 +13216,7 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1
 #KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
 
-#EXTINF:-1 group-title="EVENT 015/SEPTEMBER/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmq0OJbv9jEWF9eTy9B5C4IVkfWVJ1A3bqIw&s", 01:45 WIB Internazionale vs Udinese
+EXTINF:-1 group-title="EVENT 015/SEPTEMBER/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmq0OJbv9jEWF9eTy9B5C4IVkfWVJ1A3bqIw&s", 01:45 WIB Internazionale vs Udinese
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -13254,13 +13226,13 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1
 
 <================>
 
-#EXTINF:-1 group-title="EVENT 015/SEPTEMBER/2026" tvg-logo="https://iili.io/FtSr5Mb.jpg", 02:00 WIB Leeds United vs Newcastle United
+EXTINF:-1 group-title="EVENT 015/SEPTEMBER/2026" tvg-logo="https://iili.io/FtSr5Mb.jpg", 02:00 WIB Leeds United vs Newcastle United
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
 http://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
 
-#EXTINF:-1 group-title="EVENT 015/SEPTEMBER/2026" tvg-logo="https://iili.io/FtSMHX9.jpg", 02:00 WIB Villarreal vs Real Betis
+EXTINF:-1 group-title="EVENT 015/SEPTEMBER/2026" tvg-logo="https://iili.io/FtSMHX9.jpg", 02:00 WIB Villarreal vs Real Betis
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -13282,13 +13254,13 @@ https://tfz96gr3uomttgr31hctwgczdncjufisg17ufgr.100ycdn.com/live1.quickscoreboar
 
 
 <====================LIVE EVENT 2================================
-#EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/Black%20and%20Dark%20Space%20Photo%20YouTube%20Thumbnail_20260424_222744_0000.png?raw=true", LIVE EVENT
+EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/Black%20and%20Dark%20Space%20Photo%20YouTube%20Thumbnail_20260424_222744_0000.png?raw=true", LIVE EVENT
 
 
-#EXTINF:-1 group-title="EVENT 015/SEPTEMBER/2026" tvg-logo="https://shorter.me/oLPEz", 00:00 WIB Estonia vs Belgia
+EXTINF:-1 group-title="EVENT 015/SEPTEMBER/2026" tvg-logo="https://shorter.me/oLPEz", 00:00 WIB Estonia vs Belgia
 https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.quickscoreboardz.com/live/channel80.m3u8
 
-#EXTINF:-1 group-title="EVENT 015/SEPTEMBER/2026" tvg-logo="https://shorter.me/oLPEz", 00:00 WIB Rumania vs Turki
+EXTINF:-1 group-title="EVENT 015/SEPTEMBER/2026" tvg-logo="https://shorter.me/oLPEz", 00:00 WIB Rumania vs Turki
 https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.quickscoreboardz.com/live/channel81.m3u8
 
 
@@ -13296,7 +13268,7 @@ https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/l
 
 
 <=================== FIFA+ =============================>
-#EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/C_FIF.png?raw=true", CHANNEL FIFA+
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/WhatsApp%20Image%202026-04-29%20at%2006.41.09.jpeg?raw=true",CHANNEL FIFA+
 
 #EXTINF:-1 tvg-name="FIFA+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" group-title="CHANNEL | FIFA+",FIFA+ (English)
 https://f7ccf7fc.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLXB0X0ZJRkFQbHVzUG9ydHVndWVzZV9ITFM/playlist.m3u8
@@ -13335,7 +13307,7 @@ https://cffda8ff.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3
 
 
 ========================================== VOD KOREA ===========================================
-#EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/V_KOREAN.png?raw=true",VOD STREAM
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/WhatsApp%20Image%202026-04-29%20at%2006.41.09.jpeg?raw=true",VOD STREAM
 
 #EXTM3U
 #EXTINF:-1 tvg-name="HUMINT(2026)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvl4GdENi304yMvVnoZ89YL2dRx9_Hdta9wUZSTwlEduSplgYrQfAKWVMa&s=10" group-title="VOD | KOREAN MOVIE",HUMINT(2026)
@@ -13386,7 +13358,7 @@ https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/THE%20
 
 
 ========================================== VOD INDONESIA ===========================================
-#EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/V_INDONESIA.png?raw=true",VOD STREAM
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/WhatsApp%20Image%202026-04-29%20at%2006.41.09.jpeg?raw=true",VOD STREAM
 
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://cdn.teater.co/imgs/banner-sadali-2026_600_880.webp" group-title="VOD | INDONESIAN MOVIE",SADALI
@@ -13717,8 +13689,6 @@ https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/Animal
 #EXTINF:-1 tvg-id="ddne" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVgiyYgznp_87hgiVQUpNknUjTHXKdwcJlJ8tx9Ex1sw&s=10" group-title="VOD | KIDS ANIMATION",DEATH DOES NOT EXIST (2025)
 https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/Death%20Does%20Not%20Exist%20(2025).m3u8
 
-
-======================================
 
 
 
