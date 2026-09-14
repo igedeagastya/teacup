@@ -3347,7 +3347,7 @@ https://video.detik.com/trans7-sec/smil:trans7.smil/playlist.m3u8?wowzatokenstar
 
 #EXTINF:-1 tvg-uid="251ae945fec84b9035d5abd69e0fa73e" data-source="Trans" tvg-uid="0c05af6e04979f16979b883be1cb3de6" data-source="Trans" group-title="CHANNEL | INDONESIA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/indonesia/trans-7-id.png",TRANS 7 SH
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live.eu-north-1a.cf.dmcdn.net/sec2(-MVioVfwd-uoFTt-AW632ZHuXhNsajyXNMKMQd9bjWct2yFhCDsjS8qbZ1h62rRQwnSsFx0ZZJu0zBxNYMWxlbFVPB7gLkFXWA1yYJzShjfXdtMrWPeqV_141SX8sqcI)/dm/3/x8qckyq/d/live-720.m3u8
+https://live.eu-north-1a.cf.dmcdn.net/sec2(NPk2kvvSD9EO0kSo2WDY3491AVc220Q-BC449WRs8W9O6HpE06Rw0DcqcF52MloNM2hyAqOroCYVUELC4p2vXlTr2jV4poXwgLdWAdQvFC2nicGB4pVbN6o_kH5TRMHn)/dm/3/x8qckyq/d/live-720.m3u8
 
 #EXTINF:-1 tvg-id="BTV.id@SD" group-title="CHANNEL | INDONESIA" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/BTV.1.png?raw=true",BTV (2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
@@ -3415,8 +3415,8 @@ https://beetv.my.id/xstreamx/vd.m3u8?ch=indosiar
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://streambone.usw40304648193001.workers.dev/index.mpd?q=205&ext=drm&x=1789374464&k=345472c99c0cf3d9ee6286b8e76920d1b8034cea856eaacd3190e39fd26585ab
-https://streambone.usw40304648193001.workers.dev/index.mpd?q=205&ext=dash&x=1789374464&k=0072bf4f5feb6f3b14d2e9b4ddfdabad35934c265e0684c8b35ee459bf4bfec6&sc=205
+#KODIPROP:inputstream.adaptive.license_key=https://stream.bonetv.web.id/index.mpd?q=205&ext=drm&x=1789384963&k=712605f46700fd903b3f944b19ed0924686f29bc8d2c549a1f2a8bddc4a933e9
+https://stream.bonetv.web.id/index.mpd?q=205&ext=dash&x=1789384963&k=27b348cb8e4cd7f765ca7f855be6332cbf07fd113aded0e916a3aad6cff87ba5&sc=205
 
 #EXTINF:-1 tvg-uid="2afe304a55bbf603bd9057b312f641d8" data-source="Vididi Combi Termux" data-source="Manual" group-title="CHANNEL | INDONESIA" tvg-id="204" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/SCTV.1.png?raw=true" tvg-uid="9b6e12f5293186586b8adbe67ac315b",🆕SCTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
@@ -3424,22 +3424,22 @@ https://streambone.usw40304648193001.workers.dev/index.mpd?q=205&ext=dash&x=1789
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://streambone.usw40304648193001.workers.dev/index.mpd?q=204&ext=drm&x=1789374464&k=f60662217f161b6f70ca75942880acfb9853889c3de9833266d9b01b1f57c50f
-https://streambone.usw40304648193001.workers.dev/index.mpd?q=204&ext=dash&x=1789374464&k=caa8000a305df2182d303dff972eb3b57d650b9beb8cdd2d5ed0593b48d0b9da&sc=204
+#KODIPROP:inputstream.adaptive.license_key=https://stream.bonetv.web.id/index.mpd?q=204&ext=drm&x=1789384963&k=e256ac57b1821e6e69a9e0c9e86d5dcf12c7c08a6425a969117d0c4d98620804
+https://stream.bonetv.web.id/index.mpd?q=204&ext=dash&x=1789384963&k=84dca35fc9e39131d6b0c2ee8608f5ed009bd20c4c214bde1b8d800527e714d7&sc=204
 
 #EXTINF:-1 tvg-uid="b297306a4236baf99bd72edfb9500ac0" data-source="Vididi Combi Termux" data-source="Manual" group-title="CHANNEL | INDONESIA" tvg-id="782" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/ANTV.1.png?raw=true",🆕ANTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-https://streambone.usw40304648193001.workers.dev/index.mpd?q=782&ext=dash&x=1789374464&k=5626ac79bf8731cc993f0f9914bad81ee57feb60be46ca270cff6f9dd02f8817&sc=782
+https://stream.bonetv.web.id/index.mpd?q=782&ext=dash&x=1789384963&k=9906043f4ec8c62a6b1b89412700555b8d61cff95904f507fb1499d284b85c69&sc=782
 
 #EXTINF:-1 tvg-uid="d377b7035f33a501123e388eed52f353" data-source="Vididi Combi Termux" data-source="Manual" group-title="CHANNEL | INDONESIA" tvg-id="783" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/TVONE.1.png?raw=true",🆕TVONE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-https://streambone.usw40304648193001.workers.dev/index.mpd?q=783&ext=dash&x=1789374464&k=1f02a7bddb980dbb4dcd8c659c6b00d5e78383dd1f319240a21b94976a218cad&sc=783
+https://stream.bonetv.web.id/index.mpd?q=783&ext=dash&x=1789384963&k=828306f7e2dca0349be69422883ebaee233f01c081eb3806e716e22d249bb4eb&sc=783
 
 ++===
 
@@ -3574,7 +3574,8 @@ http://khano.nng.cloudns.us/live/m3u8/id/1375b51bb1b2c31.m3u8
 #EXTINF:-1 tvg-id="ChannelJowo.id" tvg-name="Channel Jowo" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/chjwo.png?raw=true" group-title="CHANNEL | DAERAH", Channel Jowo
 http://khano.nng.cloudns.us/live/m3u8/id/1de333734b1b7e0.m3u8
 
-EXTINF:-1 tvg-id="dutaTV" tvg-name="duta TV" tvg-logo="https://iili.io/JbtoJyl.png" group-title="CHANNEL | DAERAH", Duta TV
+#EXTINF:-1 group-title="CHANNEL | DAERAH" tvg-id="" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/dta.png?raw=true", DUTA TV
+http://gvisiontv.channell.my.id/kitkat/untukstbkitkatmenolakpunah/https://dutatv.siar.us/dutatv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CarubanTV.id@HD" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/crbn.png?raw=true" http-referrer="https://stream.carubantv.id" group-title="CHANNEL | DAERAH", CARUBAN TV
 #EXTVLCOPT:http-referrer=https://stream.carubantv.id
