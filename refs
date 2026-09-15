@@ -13486,7 +13486,28 @@ https://pixeldrain.com/api/file/xDtZjqYB?download
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/WhatsApp%20Image%202026-04-29%20at%2006.41.09.jpeg?raw=true",VOD STREAM
 
 #EXTM3U
-
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2016/01/film-captain-america-the-first-avenger-2011.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Captain America: The First Avenger
+https://stream.playcdn.de/playlist/a00a77b725db40863099ab4ead323f15/4/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2015/12/film-interstellar-2014.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Interstellar
+https://stream.playcdn.de/playlist/df55b7cc6a4e14f9a1b4823f31568f72/3/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/07/film-debt-collector-2026-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", The Debt Collector
+https://stream.playcdn.de/playlist/4b09f31be5a0924014b466e583a6e7f3/2/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/07/film-backrooms-2026-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Backrooms
+https://stream.playcdn.de/playlist/fcdd16b0d7673dd1dc3ae22a156f11ee/2/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/07/film-gayong-2-2026-lk21-1.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Gayong 2
+https://stream.playcdn.de/playlist/ead40f0fcbd6d44b5dae6fa91051d6e0/2/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/08/film-agent-shaan-elite-pursuit-2026-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Agent Shaan Elite Pursuit
+https://stream.playcdn.de/playlist/0d69bb97d76c259b7990a8b86948c4e1/2/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/07/film-star-wars-mandalorian-grogu-2026-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Star Wars: The Mandalorian and Grogu
+https://stream.playcdn.de/playlist/97068cacc08f1a644050a3934b8d34f5/1/0.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/07/film-shelter-2026-lk21-1.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Shelter
+https://stream.playcdn.de/playlist/aade3f796963ed292fd94b014559e03d/2/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/02/film-wrecking-crew-2026-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", The Wrecking Crew
+https://stream.playcdn.de/playlist/17abf94232adfa20b088fcbaf9ad05f9/2/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/08/film-son-sara-2025-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Son of Sara
+https://stream.playcdn.de/playlist/198f060e86c0cbc83f10ef3b053a33cd/2/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2021/05/film-wrath-of-man-2021-lk21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Wrath of Man
+https://stream.playcdn.de/playlist/6fc40f67c3979f49df1e124ba46e7ec0/4/480.m3u8?x=1
 #EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/07/film-disclosure-day-2026-lk21-2.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Disclosure Day
 https://stream.playcdn.de/playlist/a9dd119abae8c4189dadf957b13ccec0/2/480.m3u8?x=1
 #EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2026/07/film-masters-universe-2026-1-lk21-1.jpg" group-title="🎬 FILM UNGGULAN HARI INI", Masters of the Universe
@@ -13575,6 +13596,18 @@ https://stream.playcdn.de/playlist/1178b40cfbe0ec806e4e1116cfc8ddf3/2/480.m3u8?x
 https://stream.playcdn.de/playlist/ace88b4f6afc788c96ed56c7f3c080d1/2/480.m3u8?x=1
 #EXTINF:-1 tvg-logo="https://cover.showcdnx.com/wp-content/uploads/2021/11/film-14-peaks-nothing-is-impossible-2021-lk21-d21.jpg" group-title="🎬 FILM UNGGULAN HARI INI", 14 Peaks: Nothing Is Impossible
 https://pixeldrain.com/api/file/fGc4XLNS?download
+
+
+
+
+
+
+
+
+
+
+
+
 
 =================err=================
 
