@@ -6238,7 +6238,7 @@ https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/944
 
 
 
-=======================================LIGA ITALIA==========================================================================
+=======================================ITALIA==========================================================================
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/WhatsApp%20Image%202026-04-29%20at%2006.41.09.jpeg?raw=true",LIVE | LALIGA
 
 #EXTINF:-1 tvg-uid="2e96cab7228963f3009f0c45da7e175a" data-source="April2027" group-title="LIVE | SERIE A" tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/ZIGGOSPORT.png", NL-ZG| ZIGGO SPORT ᴿᴬᵂ | BONE TV
@@ -6268,7 +6268,7 @@ https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc347/playlist.m3u8?token=
 
 
 
-=====================================LIVE | BUNDESLIGA========================================================================
+=====================================BUNDESLIGA========================================================================
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/WhatsApp%20Image%202026-04-29%20at%2006.41.09.jpeg?raw=true",LIVE | LIGA JERMAN
 
 #EXTINF:-1 tvg-uid="cabff78b4d3dde7041c3d611b97f1978" data-source="Sports7November" group-title="LIVE | BUNDESLIGA" tvg-logo="https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Bundesli.jpg", ┃FI┃ V SPORT 1 HD
@@ -6299,7 +6299,7 @@ https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/ssdefyhkkr/
 
 
 
-=====================================LIVE | LALIGA========================================================================
+=====================================LALIGA========================================================================
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/WhatsApp%20Image%202026-04-29%20at%2006.41.09.jpeg?raw=true",LIVE | LALIGA
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -6363,12 +6363,9 @@ https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/827
 
 
 
-======================= LIVE | LIGA INGGRIS ====================================
+======================= LIGA INGGRIS ====================================
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/WhatsApp%20Image%202026-04-29%20at%2006.41.09.jpeg?raw=true",LIVE | LIGA INGGRIS
 
-
-#EXTINF:-1 tvg-uid="0e547e2f09c23219dd055e30add99976" data-source="Macportal6" group-title=" LIVE | LIGA INGGRIS" tvg-logo="http://51.158.145.100/picons/logos/PPV/staun.png", STAN SPORTS
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels6/1909971-m8hfdt4h.m3u8
 #EXTINF:-1 tvg-uid="b06d5186c9a546c7a36eaf8c143548e7" data-source="VietnamCH" group-title="LIVE | LIGA INGGRIS" tvg-logo="https://m.media-amazon.com/images/I/611NwkDJjOL.png", MUTV
 http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1312824&extension=ts&play_token=3ouilCRXf9
 #EXTINF:-1 tvg-uid="a4ce66cf1a2df21cd658dc44327acbf4" data-source="Sports7November" group-title="LIVE | LIGA INGGRIS" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/MUTV.png", ┃UK┃ MUTV FHD
@@ -6418,7 +6415,7 @@ https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia-v2/2826
 
 
 
-======================= LIVE | EREDIVISIE ====================================
+======================= EREDIVISIE ====================================
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/WhatsApp%20Image%202026-04-29%20at%2006.41.09.jpeg?raw=true",LIVE | EREDIVISIE
 
 #EXTINF:-1 tvg-uid="8246d8590ec2b49f23d6f6976fa9fcc3" data-source="April2027" group-title="LIVE | EREDIVISIE" tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/ESPN.png", NL-ZG| ESPN ᴿᴬᵂ
@@ -6431,7 +6428,7 @@ https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia-v2/2069
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia-v2/2069727.m3u8
 
 
-==============================================LIVE | UCL============================================================
+==============================================UCL============================================================
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/WhatsApp%20Image%202026-04-29%20at%2006.41.09.jpeg?raw=true",LIVE | UCL
 
 #EXTINF:-1 tvg-uid="c76a1b5096b911ae2ed3c265a87e70eb" data-source="Plusthailand" tvg-name="TNT Sports 1" tvg-logo="https://object-streamo.emonaja.com/img/tntsports.png" group-title="LIVE | UCL", TNT Sports 1
@@ -9001,7 +8998,7 @@ https://times-ott-live.akamaized.net/romedynow_wv_drm/index.mpd
 
 
 ########## CHANNEL INDONESIA PREMIUM ##########
-#EXTINF:-1 group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/CHANNEL_20260509_150601_0000.png?raw=true",CHANNEL | VISON+
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/sinatra846/andrasinatra/refs/heads/main/WhatsApp%20Image%202026-04-29%20at%2006.41.09.jpeg?raw=true",CHANNEL | VISON+
 
 #EXTINF:-1 tvg-id="808.trans"  tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856c3db2cc016cd6e825832393/a60c24e321d640f782d84cacb671173e.png" group-title="CHANNEL | VISION+",🆕 RCTI
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
