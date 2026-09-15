@@ -3577,36 +3577,36 @@ https://re1.siar.us/madutv/hd720/playlist.m3u8
 #EXTINF:-1 tvg-id="Apple TV.id" group-title="CHANNEL | DAERAH" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/PON%20TV.png?raw=true", PON TV
 https://63b2dc7196c38.streamlock.net:1937/PONTV/_definst_/myStream/chunklist_w247695662.m3u8
 
-#EXTINF:-1 tvg-id="Apple TV.id" tvg-logo="https://media.licdn.com/dms/image/v2/C561BAQGOnIN_fYUMfg/company-background_10000/company-background_10000/0/1639496853603/ugtv_cover?e=2147483647&v=beta&t=3jn5psRKJioPcFh9LwQKxn1mg_ibHzFQt47CdzX3kiI" group-title="CHANNEL | DAERAH", UGTV
+#EXTINF:-1 tvg-id="Apple TV.id" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/UGTV.jpg?raw=true" group-title="CHANNEL | DAERAH", UGTV
 https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv_high.m3u8
 
-#EXTINF:-1 tvg-id="Apple TV.id" group-title="CHANNEL | DAERAH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-ULKrY5CtAq5R0j3sfPCBg6AaAtDKgV4Fzg&s", KTV
+#EXTINF:-1 tvg-id="Apple TV.id" group-title="CHANNEL | DAERAH" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/ktv.png?raw=true", KTV
 https://5bf7b725107e5.streamlock.net/kaltaratv/kaltaratv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Apple TV.id" group-title="CHANNEL | DAERAH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwmsb4YOQgSJY1E7pIWyoiaBfMWsjcaXeQBQ&s", SANGAJI TV
+#EXTINF:-1 tvg-id="Apple TV.id" group-title="CHANNEL | DAERAH" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/sngji.png?raw=true", SANGAJI TV
 https://cdn.adyadigitalteknologi.com:8090/vod/relay.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvsP7kcYHiXYfhANpz1m5X-Maw2aOB2l3b8d_g2fr5&s=10" group-title="CHANNEL | DAERAH", PUJA TV ACEH
+#EXTINF:-1 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/pja.png?raw=true" group-title="CHANNEL | DAERAH", PUJA TV ACEH
 #EXTVLCOPT:http-referrer=https://tv.garden/
 https://pujatv.siar.us/live/pujatv.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLOBQTqUnY9BqxwvFKvwuDDvVvfVZOkDiOXg&s" group-title="CHANNEL | DAERAH" x-source="Apple TV update" tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/bdPhQsj/rounded-in-photoretrica-1.png" , MGSTV (SUKABUMI)
+#EXTINF:-1 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/7tguy454e4.png?raw=true" group-title="CHANNEL | DAERAH" x-source="Apple TV update" tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/bdPhQsj/rounded-in-photoretrica-1.png" , MGSTV (SUKABUMI)
 https://mgstv.siar.us/live/mgstv.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/bdPhQsj/rounded-in-photoretrica-1.png" group-title="CHANNEL | DAERAH" x-source="Apple TV update" tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/bdPhQsj/rounded-in-photoretrica-1.png" , RADIO SURABAYA
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/bdPhQsj/rounded-in-photoretrica-1.png" group-title="CHANNEL | DAERAH" x-source="Apple TV update" tvg-id="Apple TV.id" group-logo="https://github.com/sinatra846/iptv-assets-/blob/main/RDI%20SURABAYA.png?raw=true" , RADIO SURABAYA
 https://ssfm.siar.us/ssfm/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSevCJsvvGwDK8xuLyM0rMiOBN9cECG8m4RFg&s" group-title="CHANNEL | DAERAH" x-source="Apple TV update" tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/bdPhQsj/rounded-in-photoretrica-1.png" , IMTV (JAKARTA)
+#EXTINF:-1 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/imtv.png?raw=true" group-title="CHANNEL | DAERAH" x-source="Apple TV update" tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/bdPhQsj/rounded-in-photoretrica-1.png" , IMTV (JAKARTA)
 https://5bf7b725107e5.streamlock.net/imtv/imtv/chunklist_w422579395.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/6/148286.v2.png" group-title="CHANNEL | DAERAH" x-source="Apple TV update" tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/bdPhQsj/rounded-in-photoretrica-1.png" , FICOM CHANNEL
+#EXTINF:-1 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/ficom.png?raw=true" group-title="CHANNEL | DAERAH" x-source="Apple TV update" tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/bdPhQsj/rounded-in-photoretrica-1.png" , FICOM CHANNEL
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.1.6 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://v3.siar.us/ficomchannel/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Apple TV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/PKTV_New_Logo_2020.png/250px-PKTV_New_Logo_2020.png" group-title="CHANNEL | DAERAH", PKTV
+#EXTINF:-1 tvg-id="Apple TV.id" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/Pktv.png?raw=true" group-title="CHANNEL | DAERAH", PKTV
 https://streaming.id18.tunnel.my.id/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.staratv.id/icon.jpeg" group-title="CHANNEL | DAERAH",MATRIX TV
+#EXTINF:-1 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/matrixjogja.png?raw=true" group-title="CHANNEL | DAERAH",MATRIX TV
 https://stream.matrixtv.id/hls/1/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://stream.staratv.id/logo/external" group-title="CHANNEL | DAERAH", STARA TV Bojonegoro
