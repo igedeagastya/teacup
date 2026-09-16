@@ -3362,26 +3362,45 @@ https://beetv.my.id/stream/vd.m3u8?ch=antv
 
 ======EDT=======
 
-#EXTINF:-1 tvg-name="RCTI.id" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/RCTI.1.png?raw=true" group-title="CHANNEL | INDONESIA",RCTI 
+####EXTINF:-1 tvg-name="RCTI.id" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/RCTI.1.png?raw=true" group-title="CHANNEL | INDONESIA",RCTI 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/ 
 https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=rcti 
+#EXTINF:-1 tvg-id="RCTI" tvg-name="RCTI - Server 4" tvg-logo="https://i.imgur.com/C0a9fdx.jpeg" group-title="CHANNEL | INDONESIA",🆕 RCTI +
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://rplus.semar26.xyz/rcti.m3u8
 
-#EXTINF:-1 tvg-name="MNCTV.id" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/MNCTV.1.png?raw=true" group-title="CHANNEL | INDONESIA",MNCTV 
+#######EXTINF:-1 tvg-name="MNCTV.id" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/MNCTV.1.png?raw=true" group-title="CHANNEL | INDONESIA",MNCTV 
 #EXTVLCOPT:http-user-agent=android-R+ 
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/ 
 https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=mnctv 
+#EXTINF:-1 tvg-id="RCTI" tvg-name="RCTI - Server 4" tvg-logo="" group-title="CHANNEL | INDONESIA",🆕 MNC +
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://rplus.semar26.xyz/mnctv.m3u8
 
-#EXTINF:-1 tvg-name="GTV.id" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/GTV.1.png?raw=true" group-title="CHANNEL | INDONESIA",GTV 
+#####EXTINF:-1 tvg-name="GTV.id" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/GTV.1.png?raw=true" group-title="CHANNEL | INDONESIA",GTV 
 #EXTVLCOPT:http-user-agent=android-R+ 
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/ 
 https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=gtv 
+#EXTINF:-1 tvg-id="RCTI" tvg-name="RCTI - Server 4" tvg-logo="" group-title="CHANNEL | INDONESIA",🆕 GTV +
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://rplus.semar26.xyz/gtv.m3u8
 
-#EXTINF:-1 tvg-name="iNews.id" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/INEWS.1.png?raw=true" group-title="CHANNEL | INDONESIA",iNews 
+#####EXTINF:-1 tvg-name="iNews.id" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/INEWS.1.png?raw=true" group-title="CHANNEL | INDONESIA",iNews 
 #EXTVLCOPT:http-user-agent=android-R+ 
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/ 
 https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=inews
-
+#EXTINF:-1 tvg-id="RCTI" tvg-name="RCTI - Server 4" tvg-logo="" group-title="CHANNEL | INDONESIA",🆕 INEWS +
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://rplus.semar26.xyz/inews.m3u8
 
 
 
@@ -3398,7 +3417,10 @@ http://122.248.43.242:1935/KAWANUATV/_definst_/myStream/playlist.m3u8
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="auto.astha.tv" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/astha.png?raw=true" group-title="CHANNEL | DAERAH",•ASTHA TV
+####EXTINF:-1 tvg-id="auto.astha.tv" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/astha.png?raw=true" group-title="CHANNEL | DAERAH",•ASTHA TV
+https://hgmtv.com:19360/asthatv/asthatv.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/astha.png?raw=true" group-title="CHANNEL | DAERAH", ASTHA TV
 https://hgmtv.com:19360/asthatv/asthatv.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
