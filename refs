@@ -13147,6 +13147,10 @@ https://d3f4oii5n0oeqi.cloudfront.net/11701/88814575/hls/master.m3u8?ads._fw_app
 #EXTVLCOPT:http-referrer=https://xl365.domainkqt.cc/
 https://live2.zundrixmediapipeline.com/live/channel24.m3u8
 
+#EXTINF:-1 tvg-uid="59ddd58285d0ccb72f50f6254218d281" data-source="Shoot LiveEvent" tvg-logo="https://oss.yalla-shoot-admin.com/team/202f06f8f7309197ad269ce0e27af72bdf4.png" group-title="EVENT 016/SEPTEMBER/2026",[🔴 LIVE 15:30 WIB] [Indonesian Liga 1] Borneo FC Samarinda vs Dewa United FC [Zhubo]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://yallavoide.yalla-shoot-zhubo.com/sport/202_5687296_1.m3u8?auth_key=1789636048-0-0-188330a31e58d46b309446d99344fa0a
+
 #EXTINF:-1 group-title="EVENT 016/SEPTEMBER/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0xx5RTJOE763xkE2S4jUNn_I6cie2bYEkoI3hvOjeow&s=10", 17:00 WIB Seoul vs Persib
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xl365.domainkqt.cc/
