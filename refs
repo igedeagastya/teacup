@@ -3288,7 +3288,7 @@ https://streambonetv.lutfimuhammad200917.workers.dev/index.mpd?q=205&ext=dash&x=
 #KODIPROP:inputstream.adaptive.license_key=https://streambonetv.lutfimuhammad200917.workers.dev/index.mpd?q=204&ext=drm&x=1789574432&k=ee8213d486d3349c648b425b82d933dc1bf8fede1b79b434fcdd5722a5dd4cb5
 https://streambonetv.lutfimuhammad200917.workers.dev/index.mpd?q=204&ext=dash&x=1789574432&k=4a6810dc697d2dd9f6217ef6cd36639e6cb90444304e8f147a6b8a789f8e15ef&sc=204
 
-#EXTINF:-1 tvg-uid="b297306a4236baf99bd72edfb9500ac0" data-source="Vididi Combi Termux" data-source="Manual" group-title="CHANNEL | INDONESIA" tvg-id="782" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/ANTV.1.png?raw=true",🆕ANTV
+#####EXTINF:-1 tvg-uid="b297306a4236baf99bd72edfb9500ac0" data-source="Vididi Combi Termux" data-source="Manual" group-title="CHANNEL | INDONESIA" tvg-id="782" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/ANTV.1.png?raw=true",🆕ANTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
