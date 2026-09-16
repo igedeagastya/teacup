@@ -3285,8 +3285,8 @@ https://streamvididi.bonetvkoe.web.id/index.mpd?q=205&ext=dash&x=1789556768&k=c7
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://streamvididi.bonetvkoe.web.id/index.mpd?q=204&ext=drm&x=1789563574&k=24ffc9960df568068043d306c5d0b619814f6a00cbebb0f66f63ca7ebcd5e3f8
-https://streamvididi.bonetvkoe.web.id/index.mpd?q=204&ext=dash&x=1789563574&k=80e01db90f8e9366a93368e8fcf4852bcee5f6bebbba3897d2a25e1a14985b3f&sc=204
+#KODIPROP:inputstream.adaptive.license_key=https://streamvididi.bonetvkoe.web.id/index.mpd?q=204&ext=drm&x=1789565483&k=b75aa7cae5cdce3dcc63b971429e3c03ce3dbea0c7db5f577f29b3abc29d1105
+https://streamvididi.bonetvkoe.web.id/index.mpd?q=204&ext=dash&x=1789565483&k=5582db8b7ab839748b6fb30b452d0f9dd487e10970db1986aef03d58fe14efeb&sc=204
 
 #EXTINF:-1 tvg-uid="b297306a4236baf99bd72edfb9500ac0" data-source="Vididi Combi Termux" data-source="Manual" group-title="CHANNEL | INDONESIA" tvg-id="782" tvg-logo="https://github.com/sinatra846/iptv-assets-/blob/main/ANTV.1.png?raw=true",🆕ANTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
